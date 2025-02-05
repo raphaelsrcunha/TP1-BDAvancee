@@ -1,0 +1,12 @@
+C:\Users\rapha\source\repos\TP1-BDAvancee\bin\Debug\TP1-BDAvancee.exe.config
+C:\Users\rapha\source\repos\TP1-BDAvancee\bin\Debug\TP1-BDAvancee.exe
+C:\Users\rapha\source\repos\TP1-BDAvancee\bin\Debug\TP1-BDAvancee.pdb
+C:\Users\rapha\source\repos\TP1-BDAvancee\obj\Debug\TP1-BDAvancee.csproj.AssemblyReference.cache
+C:\Users\rapha\source\repos\TP1-BDAvancee\obj\Debug\TP1_BDAvancee.Form1.resources
+C:\Users\rapha\source\repos\TP1-BDAvancee\obj\Debug\TP1_BDAvancee.Properties.Resources.resources
+C:\Users\rapha\source\repos\TP1-BDAvancee\obj\Debug\TP1-BDAvancee.csproj.GenerateResource.cache
+C:\Users\rapha\source\repos\TP1-BDAvancee\obj\Debug\TP1-BDAvancee.csproj.CoreCompileInputs.cache
+C:\Users\rapha\source\repos\TP1-BDAvancee\obj\Debug\TP1-BDAvancee.exe
+C:\Users\rapha\source\repos\TP1-BDAvancee\obj\Debug\TP1-BDAvancee.pdb
+C:\Users\rapha\source\repos\TP1-BDAvancee\obj\Debug\TP1_BDAvancee.view.NewArticleWindow.resources
+C:\Users\rapha\source\repos\TP1-BDAvancee\obj\Debug\TP1_BDAvancee.view.FormUpdateArticle.resources

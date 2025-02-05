@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DE5ECE-A4CD-428E-869F-FA09002FDC56}|TP1-BDAvancee.csproj|c:\\users\\rapha\\source\\repos\\tp1-bdavancee\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DE5ECE-A4CD-428E-869F-FA09002FDC56}|TP1-BDAvancee.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DE5ECE-A4CD-428E-869F-FA09002FDC56}|TP1-BDAvancee.csproj|C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DE5ECE-A4CD-428E-869F-FA09002FDC56}|TP1-BDAvancee.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DE5ECE-A4CD-428E-869F-FA09002FDC56}|TP1-BDAvancee.csproj|C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\db\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DE5ECE-A4CD-428E-869F-FA09002FDC56}|TP1-BDAvancee.csproj|solutionrelative:db\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DE5ECE-A4CD-428E-869F-FA09002FDC56}|TP1-BDAvancee.csproj|C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\db\\articlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DE5ECE-A4CD-428E-869F-FA09002FDC56}|TP1-BDAvancee.csproj|solutionrelative:db\\articlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DE5ECE-A4CD-428E-869F-FA09002FDC56}|TP1-BDAvancee.csproj|C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5DE5ECE-A4CD-428E-869F-FA09002FDC56}|TP1-BDAvancee.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DE5ECE-A4CD-428E-869F-FA09002FDC56}|TP1-BDAvancee.csproj|C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5DE5ECE-A4CD-428E-869F-FA09002FDC56}|TP1-BDAvancee.csproj|solutionrelative:view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DE5ECE-A4CD-428E-869F-FA09002FDC56}|TP1-BDAvancee.csproj|C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DE5ECE-A4CD-428E-869F-FA09002FDC56}|TP1-BDAvancee.csproj|solutionrelative:view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DE5ECE-A4CD-428E-869F-FA09002FDC56}|TP1-BDAvancee.csproj|C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\view\\newarticlewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5DE5ECE-A4CD-428E-869F-FA09002FDC56}|TP1-BDAvancee.csproj|solutionrelative:view\\newarticlewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DE5ECE-A4CD-428E-869F-FA09002FDC56}|TP1-BDAvancee.csproj|C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DE5ECE-A4CD-428E-869F-FA09002FDC56}|TP1-BDAvancee.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DE5ECE-A4CD-428E-869F-FA09002FDC56}|TP1-BDAvancee.csproj|C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\model\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DE5ECE-A4CD-428E-869F-FA09002FDC56}|TP1-BDAvancee.csproj|solutionrelative:model\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DE5ECE-A4CD-428E-869F-FA09002FDC56}|TP1-BDAvancee.csproj|C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\view\\newarticlewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DE5ECE-A4CD-428E-869F-FA09002FDC56}|TP1-BDAvancee.csproj|solutionrelative:view\\newarticlewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DE5ECE-A4CD-428E-869F-FA09002FDC56}|TP1-BDAvancee.csproj|C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\view\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DE5ECE-A4CD-428E-869F-FA09002FDC56}|TP1-BDAvancee.csproj|solutionrelative:view\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 225,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\db\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "db\\DatabaseConnection.cs",
+              "ToolTip": "C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\db\\DatabaseConnection.cs",
+              "RelativeToolTip": "db\\DatabaseConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T16:17:00.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAcwAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T16:55:42.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArticleManager.cs",
+              "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\db\\ArticleManager.cs",
+              "RelativeDocumentMoniker": "db\\ArticleManager.cs",
+              "ToolTip": "C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\db\\ArticleManager.cs",
+              "RelativeToolTip": "db\\ArticleManager.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAAAOUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T16:56:37.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T16:47:18.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\view\\Form1.cs",
+              "RelativeDocumentMoniker": "view\\Form1.cs",
+              "ToolTip": "C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\view\\Form1.cs",
+              "RelativeToolTip": "view\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T18:37:22.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\view\\Form1.cs",
+              "RelativeDocumentMoniker": "view\\Form1.cs",
+              "ToolTip": "C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\view\\Form1.cs [Design]",
+              "RelativeToolTip": "view\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T18:37:11.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T16:06:35.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NewArticleWindow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\view\\NewArticleWindow.cs",
+              "RelativeDocumentMoniker": "view\\NewArticleWindow.cs",
+              "ToolTip": "C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\view\\NewArticleWindow.cs [Design]",
+              "RelativeToolTip": "view\\NewArticleWindow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T17:12:57.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\model\\Article.cs",
+              "RelativeDocumentMoniker": "model\\Article.cs",
+              "ToolTip": "C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\model\\Article.cs",
+              "RelativeToolTip": "model\\Article.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAACRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T16:53:49.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T15:51:06.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NewArticleWindow.cs",
+              "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\view\\NewArticleWindow.cs",
+              "RelativeDocumentMoniker": "view\\NewArticleWindow.cs",
+              "ToolTip": "C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\view\\NewArticleWindow.cs",
+              "RelativeToolTip": "view\\NewArticleWindow.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T17:17:29.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\view\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "view\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\view\\Form1.Designer.cs",
+              "RelativeToolTip": "view\\Form1.Designer.cs",
+              "ViewState": "AgIAANUAAAAAAAAAAAAUwOoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T18:51:15.617Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 35,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
