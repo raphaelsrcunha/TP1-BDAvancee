@@ -18,7 +18,7 @@ TP1_BDAvancee est une application Windows Forms qui permet de gérer des article
 ## Installation
 1. Clonez le dépôt :
    
-   git clone https://github.com/votre-utilisateur/TP1_BDAvancee.git
+   git clone https://github.com/raphaelsrcunha/TP1-BDAvancee.git
 
 2. Ouvrez le projet dans Visual Studio.
 3. Assurez-vous que la chaîne de connexion à la base de données est correcte dans le fichier `DatabaseConnection.cs`.
