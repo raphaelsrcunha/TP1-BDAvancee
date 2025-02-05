@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{D5DE5ECE-A4CD-428E-869F-FA09002FDC56}|TP1-BDAvancee.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5DE5ECE-A4CD-428E-869F-FA09002FDC56}|TP1-BDAvancee.csproj|c:\\users\\rapha\\source\\repos\\tp1-bdavancee\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5DE5ECE-A4CD-428E-869F-FA09002FDC56}|TP1-BDAvancee.csproj|C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5DE5ECE-A4CD-428E-869F-FA09002FDC56}|TP1-BDAvancee.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -62,12 +62,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 225,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -88,7 +84,7 @@
               "RelativeDocumentMoniker": "README.md",
               "ToolTip": "C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\README.md",
               "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAEEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-02-05T15:56:14.355Z",
               "EditorCaption": ""
@@ -115,8 +111,7 @@
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AgIAAJQAAAAAAAAAAAAcwAwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T16:55:42.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T16:55:42.413Z"
             },
             {
               "$type": "Document",

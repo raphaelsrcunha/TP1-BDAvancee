@@ -23,6 +23,13 @@ TP1_BDAvancee est une application Windows Forms qui permet de gérer des article
 2. Ouvrez le projet dans Visual Studio.
 3. Assurez-vous que la chaîne de connexion à la base de données est correcte dans le fichier `DatabaseConnection.cs`.
 
+## Création de la Base de Données
+Utilisez la requête SQL suivante pour créer la base de données et la table `Articles` dans SQL Server :
+
+CREATE DATABASE ArticlesDB;
+USE ArticlesDB;
+CREATE TABLE Articles ( Id INT PRIMARY KEY IDENTITY(1,1), Code NVARCHAR(50) NOT NULL, Name NVARCHAR(100) NOT NULL, Description NVARCHAR(255), Brand NVARCHAR(50), Category NVARCHAR(50), Price DECIMAL(18, 2) NOT NULL, ImageURL NVARCHAR(255), Valid BIT NOT NULL );
+
 ## Structure du Projet
 Le projet est structuré comme suit :
 

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D5DE5ECE-A4CD-428E-869F-FA09002FDC56}|TP1-BDAvancee.csproj|c:\\users\\rapha\\source\\repos\\tp1-bdavancee\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{D5DE5ECE-A4CD-428E-869F-FA09002FDC56}|TP1-BDAvancee.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D5DE5ECE-A4CD-428E-869F-FA09002FDC56}|TP1-BDAvancee.csproj|c:\\users\\rapha\\source\\repos\\tp1-bdavancee\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5DE5ECE-A4CD-428E-869F-FA09002FDC56}|TP1-BDAvancee.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -58,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 225,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,7 +82,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-02-05T15:56:14.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "DatabaseConnection.cs",
               "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\db\\DatabaseConnection.cs",
               "RelativeDocumentMoniker": "db\\DatabaseConnection.cs",
@@ -90,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -103,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ArticleManager.cs",
               "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\db\\ArticleManager.cs",
               "RelativeDocumentMoniker": "db\\ArticleManager.cs",
@@ -115,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -126,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\view\\Form1.cs",
               "RelativeDocumentMoniker": "view\\Form1.cs",
@@ -138,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\view\\Form1.cs",
               "RelativeDocumentMoniker": "view\\Form1.cs",
@@ -149,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -161,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "NewArticleWindow.cs [Design]",
               "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\view\\NewArticleWindow.cs",
               "RelativeDocumentMoniker": "view\\NewArticleWindow.cs",
@@ -172,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Article.cs",
               "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\model\\Article.cs",
               "RelativeDocumentMoniker": "model\\Article.cs",
@@ -184,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Form1.Designer.cs",
@@ -196,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "NewArticleWindow.cs",
               "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\view\\NewArticleWindow.cs",
               "RelativeDocumentMoniker": "view\\NewArticleWindow.cs",
@@ -208,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\rapha\\source\\repos\\TP1-BDAvancee\\view\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "view\\Form1.Designer.cs",
